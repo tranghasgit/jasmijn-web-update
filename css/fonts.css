@@ -1,0 +1,48 @@
+/* SUISSE */
+@font-face {
+  font-family: 'Suisse Reg';
+  src: url('../fonts/SuisseIntl-Regular-WebM.woff2') format('woff2'),
+       url('../fonts/SuisseIntl-Regular-WebM.woff') format('woff');
+}
+@font-face {
+  font-family: 'Suisse Reg It';
+  src: url('../fonts/SuisseIntl-RegularItalic-WebM.woff2') format('woff2'),
+       url('../fonts/SuisseIntl-RegularItalic-WebM.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Suisse Med';
+  src: url('../fonts/SuisseIntl-Medium-WebM.woff2') format('woff2'),
+       url('../fonts/SuisseIntl-Medium-WebM.woff') format('woff');
+}
+@font-face {
+  font-family: 'Suisse Med It';
+  src: url('../fonts/SuisseIntl-MediumItalic-WebM.woff2') format('woff2'),
+       url('../fonts/SuisseIntl-MediumItalic-WebM.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Suisse Bld';
+  src: url('../fonts/SuisseIntl-Bold-WebM.woff2') format('woff2'),
+       url('../fonts/SuisseIntl-Bold-WebM.woff') format('woff');
+}
+@font-face {
+  font-family: 'Suisse Bld It';
+  src: url('../fonts/SuisseIntl-BoldItalic-WebM.woff2') format('woff2'),
+       url('../fonts/SuisseIntl-BoldItalic-WebM.woff') format('woff');
+}
+
+
+/* APOC */
+@font-face {
+  font-family: 'Apoc Rev';
+  src: url('../fonts/AT-Apoc-Revelations.otf') format('opentype'),
+       url('../fonts/AT-Apoc-Revelations.woff2') format('woff2'),
+       url('../fonts/AT-Apoc-Revelations.woff') format('woff');
+}
+@font-face {
+  font-family: 'Apoc Rev It';
+  src: url('../fonts/AT-Apoc-Revelations-Italic.otf') format('opentype'),
+       url('..fonts/AT-Apoc-Revelations-Italic.woff2') format('woff2'),
+       url('../fonts/AT-Apoc-Revelations-Italic.woff') format('woff');
+}
